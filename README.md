@@ -77,6 +77,12 @@ python GUI.py
   - Shutdown Machine
   - Exit Program
 
+#### User Interface Screenshot
+
+![Sensor Data Monitoring System Screenshot](machinefault.png)
+
+*The main interface of the application. You can monitor real-time sensor data, see the status LEDs, and control the system using the buttons on the right.*
+
 ## ⚙️ Usage
 
 1. Start data stream using the "Start Data Stream" button
