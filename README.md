@@ -26,7 +26,7 @@ tkinter
 
 1. Clone the project:
 ```bash
-git clone [project-url]
+git clone [https://github.com/MEK-0/Sensor-Monitoring-and-Fault-Detection-System.git]
 ```
 
 2. Install required libraries:
